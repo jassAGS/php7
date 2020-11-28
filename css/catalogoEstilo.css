@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+
+    overflow-x:hidden;
+
+}
+.imagenlogobanner img{
+    padding-top: 12%;
+}
+.botonesbanner{
+    display: inline-block;
+    margin-top: 70px;
+
+}
+.header{
+    width: 100%;
+    height:50px;
+    background-color: #000;
+
+}
+.header img{
+    margin-top: 9px;
+}
+.opciones ul{
+    margin: 0;
+}
+.opciones li{
+    display:inline;
+    color: white;
+    padding-left: 30px;
+
+}
+.iconos-menu{
+    background-color: #E8B920;
+    width: 30px;
+    height: 30px;
+    border-radius: 3px;
+    margin-top: 9px;
+    margin-right: 100px;
+
+}
+.iconos-menu img{
+    margin-bottom: 10px;
+}
+
+.banner-principal{
+    width: 100%;
+    height: 450px;
+    background-image: url("../img/spibanner.jpg");
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-size: cover; 
+}
+.catalogomain{
+    background-color: #141414;
+    width: 100%;
+    height: 700px;
+    margin-top: -5px;
+}
+.genero{
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.genero p{
+    font-weight: 700;
+}
+
+.peliculas{
+    margin-top: 20px;
+    width: 100%;
+    height: 150px;
+    margin-left: 50px;
+    display:inline-block;
+}
+.imagen img{
+    width: 180px;
+    height: 130px;
+}
+.sep{
+    float: left;
+    border-radius: 6px;
+    background-color: #181818;
+    margin-left: 50px;
+    color: white;
+}
+.imagenlogobanner p{
+    font-size: 16px;
+    line-height: 1.75em;
+    font-weight: normal;
+    max-width: 50%;
+    padding-bottom: 20px;
+    color: black;
+
+}
+.botonesbanner{
+    margin-left: 20px;
+}
+.botonesbanner button{
+    background: rgba(0, 0, 0, 0.5);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 30px;
+    color: white;
+    margin-right: 20px;
+    cursor: pointer;
+    transition: 1s ease all;
+    font-size: 14px;
+}
+.botonesbanner button:hover{
+    background:#fff;
+    color: black;
+}
+.sep:hover{
+    box-shadow: 3px 3px 5px 0px black;
+    background-color: white;
+    color: black;
+}
+.textop{
+    font-weight: 700;
+    font-size: 20;
+}
+.textop p{
+    margin-left: 10px;
+}
+.iconospelicula{
+
+    display: inline;
+
+}
+.iconospelicula{
+    display: inline-block;
+}
+.iconospelicula img{
+    float: left;
+    margin-left: 20px;
+    padding-top: 15px;
+
+}
+.pie{
+    width: 100%;
+    height: 300px;
+    background-color: #141414;
+    margin-top: -20px;
+}
+
+.iconospie li{
+    display:inline;
+    padding-left: 30px;
+}
+.iconospie ul{
+    padding-top: 100px;
+    padding-left: 42%;
+}
+.iconospie img{
+    height: 30px;
+}
+.iconospie a{
+    text-decoration: none;
+}

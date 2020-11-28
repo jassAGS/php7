@@ -1,0 +1,54 @@
+body{
+    padding: 0;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    margin:0;
+    background-image: url(../img/fondob.png);
+    background-size: cover; 
+
+}
+.seccionLogin{
+    width: 370px;
+    height: 380px;
+    background-color: rgba(0,0,0,0.75);
+    margin-left: 40%;
+    margin-top: 200px;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    margin-left: 120px;
+}
+.in{
+    height: 40px;
+    width: 70%;
+    margin-top: 20px;
+    border-radius: 3px;
+    background: #333;
+    border: 1px solid #333;
+    color: #fff;
+    padding-left: 16px;
+    margin-left: 50px;
+   
+    
+}
+.seccionLogin h2{
+    color: white;
+    margin-left: 50px;
+    padding-top: 20px;
+        margin-left: 50px;
+   
+}
+.seccionLogin button{
+    height: 40px;
+    width: 75%;
+    background: #e50914;
+    border: 1px solid #e50914;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 12px;
+    margin-left: 50px;
+   
+    color: #fff;
+    margin-top: 20px;
+}

@@ -1,0 +1,24 @@
+body{
+    background-color: #141414;
+}
+
+.informacion img{
+    margin-top: 50px;
+    margin-left: 50px;
+    float: right;
+}
+.informacion{
+    display:flex;
+}
+.datos{
+    color: white;
+    float: left;
+    padding-top: 70px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+.video{
+    margin-top: 60px;
+    margin-left: 130px;
+    margin-bottom: 60px;
+}
